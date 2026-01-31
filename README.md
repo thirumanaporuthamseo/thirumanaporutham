@@ -4,5 +4,5 @@ Discover accurate marriage prediction in astrology based on the 7th house, Venus
 
 This SEO-optimized article explains key astrological factors that influence your marital future in a simple and clear way.
 
-🔗 Read more about Marriage Prediction & Horoscope Matching.
-link: https://thirumanaporutham.co.in/
+🔗 <a href="https://thirumanaporutham.co.in" target="_blank">Read more about Marriage Prediction & Horoscope Matching.</a>
+
