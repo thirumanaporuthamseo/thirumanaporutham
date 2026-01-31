@@ -1,2 +1,8 @@
-# thirumanaporutham
-It's is a Tamil astrology platform focused on Thirumana Porutham (Horoscope Matching). It helps users check compatibility, analyze doshas, and get accurate marriage predictions using birth details in a simple and user-friendly format.
+# Marriage Prediction in Astrology
+
+Discover accurate marriage prediction in astrology based on the 7th house, Venus, Navamsa chart, and planetary transits. Learn about marriage timing prediction, love or arranged marriage chances, horoscope matching, and reasons for marriage delay.
+
+This SEO-optimized article explains key astrological factors that influence your marital future in a simple and clear way.
+
+🔗 Read more about Marriage Prediction & Horoscope Matching.
+link: https://thirumanaporutham.co.in/
